@@ -1,7 +1,7 @@
 # 🏎️ Neural-Drive: Autonomous Obstacle Avoidance Car
 > **An autonomous robotic vehicle using Imitation Learning (Behavioral Cloning) to navigate complex environments.**
 
-![Project Demo](./assets/demo.gif) 
+![Project Demo](./demo.gif) 
 *(Replace the above with a GIF of your car driving!)*
 
 ---
