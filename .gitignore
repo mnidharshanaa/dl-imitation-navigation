@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (Committing large CSVs to Git is not recommended)
+*.csv
+*.mp4
+
+# Models
+# model.pth (Optional: usually committed, but large ones are ignored)
+
+# OS generated files
+.DS_Store
+thumbs.db
+
+# IDEs
+.vscode/
+.idea/

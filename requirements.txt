@@ -1,0 +1,7 @@
+torch
+pyserial
+pandas
+numpy
+scikit-learn
+pygame
+matplotlib
